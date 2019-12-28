@@ -1,0 +1,9 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "Study Links"
+theme = "book"
+
+# Needed for mermaid/katex shortcodes
+[markup]
+[markup.goldmark.renderer]
+  unsafe = true
